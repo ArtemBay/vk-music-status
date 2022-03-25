@@ -3,7 +3,6 @@ import asyncio
 import vk_api
 import configparser
 import datetime
-from datetime import datetime
 from discord.ext import commands
 from chardet.universaldetector import UniversalDetector
 
